@@ -20,7 +20,7 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "C:/1C/DemoUP_clear/1Cv8.1CD",
+      "path": "C:/Storage1C/StorageOtus/1Cv8.1CD",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
@@ -31,7 +31,7 @@
     {
       "name": "YAXUNIT",
       "extention": "YAXUNIT",
-      "path": "C:/1C/DemoUP_clear/1Cv8.1CD",
+      "path": "C:/Storage1C/StorageOtus_yaxunit/1Cv8.1CD",
       "dir": "./src/cfe/yaxunit",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
