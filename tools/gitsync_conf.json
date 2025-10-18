@@ -33,22 +33,15 @@
       }
     },
     {
-        "name": "YAXUNIT",
-        "extention": "YAXUNIT",
-        "path": "C:/Storage1C/StorageOtus_yaxunit/1cv8ddb.1CD",
-        "dir": "./src/cfe/yaxunit",
-        "temp-dir": "",
-        "v8version": "8.3.25.1394",
-        "plugins-config": {
-          "URL": "https://github.com/troylog/DemoUP_ci_cd.git"
-        }
-
-   
-}
-
-
-
-      
-     }
+      "name": "YAXUNIT",
+      "extention": "YAXUNIT",
+      "path": "C:/Storage1C/StorageOtus_yaxunit/1cv8ddb.1CD",
+      "dir": "./src/cfe/yaxunit",
+      "temp-dir": "",
+      "v8version": "8.3.25.1394",
+      "plugins-config": {
+        "URL": "https://github.com/troylog/DemoUP_ci_cd.git"
+      }
+    }
   ]
 }
