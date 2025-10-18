@@ -3,17 +3,17 @@
   "agent": "gitsync",
   "v8Version": "8.3.25.1394",
   "defaultInfobase": {
-    "connectionString": "tcp://otusdemowin/Storage/storage.1ccr/StorageOtus",
+    "connectionString": "C:/1C/DemoUP_clear",
     "auth": ""
   },
   "stages": {
     "gitsync": true
   },
-  "gitsync": {
-    "timeout": 60,
-    "configPath": "./tools/gitsync_conf.json",
-    "auth": "",
-    "useTemporaryInfobase": false,
-    "tempPath": ""
+  "gitsync" : {
+    "timeout" : 60,
+    "configPath" : "./tools/gitsync_conf.json",
+    "auth" : "",
+    "useTemporaryInfobase" : false,
+    "tempPath" : ""
   }
 }
