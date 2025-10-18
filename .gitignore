@@ -1,9 +1,0 @@
-.env
-build/
-allure-report/
-tests/unit/ТаблицаПроверки.txt
-ConfigDumpInfo.xml
-dumplist.txt
-build
-out
-.scannerwork
