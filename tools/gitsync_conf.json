@@ -32,16 +32,22 @@
         "URL": "https://github.com/troylog/DemoUP_ci_cd.git"
       }
     },
-    {
-        "name": "YAXUNIT",
-        "extention": "YAXUNIT",
-        "path": "C:/Storage1C/StorageOtus_yaxunit",
-        "dir": "./src/cfe/yaxunit",
-        "temp-dir": "",
-        "v8version": "8.3.25.1394",
-        "plugins-config": {
-          "URL": "https://github.com/troylog/DemoUP_ci_cd.git"
-        }
+
+  {
+    "name": "YAXUNIT",
+    "extension": "YAXUNIT",
+    "path": "C:/Storage1C/StorageOtus",   // указываем основную базу
+    "dir": "./src/cfe/yaxunit",
+    "v8version": "8.3.25.1394",
+    "plugins-config": {
+        "URL": "https://github.com/troylog/DemoUP_ci_cd.git",
+        "parent-repo": "otus"             // привязка к основной конфигурации
+    }
+}
+
+
+
+      
      }
   ]
 }
