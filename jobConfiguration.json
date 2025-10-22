@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Kyrales/jenkins-lib/devkyr/resources/schema.json",
-  "v8version": "8.3.25.1546",
+  "v8version": "8.3.25.1394",
   "edtVersion": "",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
@@ -43,7 +43,7 @@
     "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "e:/1C/build/Demo83_otus/1Cv8.1CD",
+    "templateDBPath": "e:/1C/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
