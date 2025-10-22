@@ -2,14 +2,15 @@
   "globals": {
     "storage-user": "DeployGit",
     "storage-pwd": "1234",
-    "ibconnection": "/Fc:/1C/DemoUP_clear /WA",
-    "ibuser": "",
-    "ibpwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
     "lic-try-count": 5,
     "plugins": {
-      "enable": ["check-authors","sync-remote","increment"]
+      "enable": [
+        "check-authors",
+        "sync-remote",
+        "increment"
+      ]
     },
     "plugins-config": {
       "push-n-commits": 0,
@@ -19,14 +20,12 @@
       "rename-form": true,
       "push": true
     }
-
-
-    
   },
+
   "repositories": [
     {
       "name": "otus",
-      "path": "C:/Storage1C/StorageOtus/1cv8ddb.1CD",
+      "path": "C:/Storage1C/StorageOtus",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
@@ -37,7 +36,7 @@
     {
       "name": "YAXUNIT",
       "extention": "YAXUNIT",
-      "path": "C:/Storage1C/StorageOtus_yaxunit/1cv8ddb.1CD",
+      "path": "C:/Storage1C/StorageOtus_yaxunit",
       "dir": "./src/cfe/yaxunit",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
