@@ -1,18 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/Kyrales/vanessa-usher_mod/refs/heads/my_dev/resources/schema.json",
   "agent": "gitsync",
-  "v8version": "8.3.25.1394",
-  "v8path": "C:\\Program Files (x86)\\1cv8\\8.3.25.1394\\bin\\1cv8.exe",
-  "ibconnection": "/F:/1C/DemoUP_clear/1Cv8.1CD",
-  "repositories": [
-      {
-          "name": "otus",
-          "storage": "C:/Storage1C/StorageOtus/1Cv8.1CD",
-          "dir": "./src/cf"
-      }
-   ],
-
-    "auth": ""
+  "v8Version": "8.3.25.1394",
+  "defaultInfobase": {
+    "connectionString": "/Fc:/1C/DemoUP_clear"
   },
   "stages": {
     "gitsync": true
@@ -25,3 +16,4 @@
     "tempPath" : ""
   }
 }
+
