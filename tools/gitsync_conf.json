@@ -2,14 +2,15 @@
   "globals": {
     "storage-user": "DeployGit",
     "storage-pwd": "1234",
-    "ibconnection": "/Fc:/1C/DemoUP_clear /WA",
-    "ibuser": "",
-    "ibpwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
     "lic-try-count": 5,
     "plugins": {
-      "enable": ["check-authors","sync-remote","increment"]
+      "enable": [
+        "check-authors",
+        "sync-remote",
+        "increment"
+      ]
     },
     "plugins-config": {
       "push-n-commits": 0,
@@ -19,10 +20,8 @@
       "rename-form": true,
       "push": true
     }
-
-
-    
   },
+
   "repositories": [
     {
       "name": "otus",
