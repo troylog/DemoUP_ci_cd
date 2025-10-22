@@ -2,6 +2,9 @@
   "globals": {
     "storage-user": "DeployGit",
     "storage-pwd": "1234",
+    "ibconnection": "/Fc:/1C/DemoUP_clear /WA",
+    "ibuser": "",
+    "ibpwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
     "lic-try-count": 5,
@@ -16,6 +19,9 @@
       "rename-form": true,
       "push": true
     }
+
+
+    
   },
   "repositories": [
     {
