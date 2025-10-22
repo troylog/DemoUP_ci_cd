@@ -43,7 +43,7 @@
     "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "e:/1C/DemoUP/1Cv8.1CD",
+    "templateDBPath": "c:/1C/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
