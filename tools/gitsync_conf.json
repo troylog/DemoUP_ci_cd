@@ -5,6 +5,7 @@
     "git-path": "git",
     "domain-email": "otus.ru",
     "lic-try-count": 5,
+    "v8path": "C:\\Program Files (x86)\\1cv8\\8.3.25.1394\\bin",
     "plugins": {
       "enable": [
         "check-authors",
