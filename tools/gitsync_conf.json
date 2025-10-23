@@ -37,7 +37,8 @@
     {
       "name": "YAXUNIT",
       "extention": "YAXUNIT",
-      "path": "C:/Storage1C/StorageOtusYaxunit",
+      "path": "tcp://otusdemowin/Storage1C/StorageOtusYaxunit"
+",
       "dir": "./src/cfe/yaxunit",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
