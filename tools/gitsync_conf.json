@@ -26,7 +26,7 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "C:/Storage1C/StorageOtus",
+      "path": "tcp://otusdemowin/Storage1C/StorageOtus",
       "dir": "./src/cf",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
@@ -37,7 +37,7 @@
     {
       "name": "YAXUNIT",
       "extention": "YAXUNIT",
-      "path": "C:\\Storage1C\\StorageOtusYaxunit",
+      "path": "tcp://otusdemowin/Storage1C/StorageOtusYaxunit",
       "dir": "./src/cfe/yaxunit",
       "temp-dir": "",
       "v8version": "8.3.25.1394",
