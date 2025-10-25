@@ -21,7 +21,6 @@
       "push": true
     }
   },
-
   "repositories": [
     {
       "name": "otus",
@@ -35,7 +34,7 @@
     },
     {
       "name": "YAXUNIT",
-      "extention": "YAXUNIT",
+      "extension": "YAXUNIT",
       "path": "C:/Storage1C/StorageOtusYaxunit",
       "dir": "./src/cfe/yaxunit",
       "temp-dir": "",
