@@ -12,10 +12,5 @@
   "vanessa": {
     "--vanessasettings": "./tools/VAParams.json",
     "--pathvanessa": "C:/tools/vanessa-automation-single.epf"
-  },
-    "storage": {
-    "--storage-path": "C:/Storage1C/StorageOtus",
-    "--storage-user": "DeployGit",
-    "--storage-pwd": "1234"
   }
 }
