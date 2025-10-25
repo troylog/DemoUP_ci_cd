@@ -34,7 +34,7 @@
     },
      {
       "name": "YAXUNIT",
-      "extension": "YAXUNIT",
+      "extention": "YAXUNIT",
       "path": "C:/Storage1C/StorageOtusYaxunit",
       "dir": "./src/cfe/yaxunit",
       "temp-dir": "",
